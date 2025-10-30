@@ -1,5 +1,5 @@
 # tpfinal_IS2
-integrantes del grupo:
--Soria Lucas
--Bompadre Faustino
--Sandoval Lucas
+integrantes del grupo: <br/>
+-Soria Lucas <br/>
+-Bompadre Faustino <br/>
+-Sandoval Lucas <br/>
