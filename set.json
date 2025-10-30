@@ -1,0 +1,17 @@
+{
+  "ACTION": "set",
+  "DATA": {
+    "id": "La prueba definitiva",
+    "cp": "3260",
+    "CUIT": "30-00000000-8",
+    "domicilio": "25 de Mayo 385-1P",
+    "idreq": "473",
+    "idSeq": "1146",
+    "localidad": "Concepciencao del Uruguay",
+    "provincia": "Entre Rios",
+    "sede": "FCyT",
+    "seqID": "23",
+    "telefono": "03442-431442",
+    "web": "http://www.uader.edu.ar"
+  }
+}
