@@ -1,4 +1,4 @@
-# tpfinal_IS2
+# TPFINAL_IngenieriaSoftware2
 integrantes del grupo: <br/>
 -Soria Lucas <br/>
 -Bompadre Faustino <br/>
